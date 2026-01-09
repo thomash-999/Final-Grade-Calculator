@@ -5,6 +5,8 @@
 using namespace std;
 
 int dropped_test() {
-    
+    int current_grade;
+    int final_weight;
+
 }
 
